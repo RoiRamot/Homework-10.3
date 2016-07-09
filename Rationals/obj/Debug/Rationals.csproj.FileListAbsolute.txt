@@ -1,0 +1,12 @@
+C:\projects\קורס .net\3.2\Rationals\Rationals\bin\Debug\Rationals.exe.config
+C:\projects\קורס .net\3.2\Rationals\Rationals\obj\Debug\Rationals.csprojResolveAssemblyReference.cache
+C:\projects\קורס .net\3.2\Rationals\Rationals\bin\Debug\Rationals.exe
+C:\projects\קורס .net\3.2\Rationals\Rationals\bin\Debug\Rationals.pdb
+C:\projects\קורס .net\3.2\Rationals\Rationals\obj\Debug\Rationals.exe
+C:\projects\קורס .net\3.2\Rationals\Rationals\obj\Debug\Rationals.pdb
+C:\projects\קורס .net\10.3\Rationals\Rationals\bin\Debug\Rationals.exe.config
+C:\projects\קורס .net\10.3\Rationals\Rationals\obj\Debug\Rationals.exe
+C:\projects\קורס .net\10.3\Rationals\Rationals\obj\Debug\Rationals.pdb
+C:\projects\קורס .net\10.3\Rationals\Rationals\bin\Debug\Rationals.exe
+C:\projects\קורס .net\10.3\Rationals\Rationals\bin\Debug\Rationals.pdb
+C:\projects\קורס .net\10.3\Rationals\Rationals\obj\Debug\Rationals.csprojResolveAssemblyReference.cache
